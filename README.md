@@ -5,7 +5,7 @@
 #### Contents
 
 1. E-Poster in .png format.
-2. Images that are used within poster are stored in the ./images folder. These are either images created/edited by team members (such as the League of Legends grid image) or sourced from the internet.
+2. Images that are used within the poster are stored in the ./images folder. These are either images created/edited by team members (such as the League of Legends grid image) or sourced from the internet.
 
 #### Project Development Mentions.
 
