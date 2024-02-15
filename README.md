@@ -9,7 +9,7 @@
 
 #### Project Development Mentions.
 
-Work was carried out using the Figma software, as seen below. Within this software, all team members were able to edit the poster at the same time, making collaboration easier.  
+Work was carried out using the Figma software, as seen below. Within this software, all team members were able to edit the poster at the same time (or in parallel hehe), making collaboration easier.  
 
 ![Figma Dashboard with the Poster in the Background being complete](./images/figma.png)
 
